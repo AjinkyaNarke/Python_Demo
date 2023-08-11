@@ -1,6 +1,6 @@
-print("githubbb")
+print("github")
 print('heloo Ajinkya')
-a=1
+a=0
 if a==1:
     print("King ajinkya")
 else:
